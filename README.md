@@ -1,8 +1,7 @@
-## virat-dashboard
+# Virat Dashboard
 
-## Project Object
+## Project Objective  
+A dashboard showcasing **Virat Kohli's career statistics** with interactive visualizations and insights.
 
-Just Trying to make virat kohli dashboard Statistics
-
-## Dataset Used
-- <a "https://github.com/NitinKumar311/virat-dashboard/blob/main/Virat-Kohli.xlsx">Virat Dataset</a>
+## Dataset Used  
+The dataset is available here: [Virat Kohli Dataset](https://github.com/NitinKumar311/virat-dashboard/blob/main/Virat-Kohli.xlsx)
